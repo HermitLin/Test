@@ -11,7 +11,10 @@
                         return '大於70坪'
                     default
                         return 'Error'
+
                 }  
+
+            case 'aaa' :
             case 'soot_smell_in_the_kitchen' :
                 //逸散性油煙味
                 switch (val) {
